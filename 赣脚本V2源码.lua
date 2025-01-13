@@ -1,5 +1,3 @@
---我的好徒弟啊，为师最后送你最后一程
---by 神青
 
 local UserInputService = game:GetService("UserInputService")
 
